@@ -15,5 +15,5 @@ Una aplicación Android y Web educativa para la salud y trackeo de consumo, que 
 
 ## Autores
 
-Mario Daniel Blanco Estrada - 24002578
-Antonio Papadopolo Castellanos - 24002045
+- Mario Daniel Blanco Estrada - 24002578
+- Antonio Papadopolo Castellanos - 24002045
