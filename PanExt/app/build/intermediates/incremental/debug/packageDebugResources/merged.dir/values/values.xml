@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#0E0E0E</color>
+    <string name="app_name">Pan-Ext</string>
+    <style name="Theme.PanExt" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
